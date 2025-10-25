@@ -1,0 +1,30 @@
+[INFO] 01:44:27:017 WORKER/(8486:8486): Creado correctamente el socket_cliente
+[INFO] 01:44:27:018 WORKER/(8486:8486): No se pudo conectar al servidor
+[INFO] 01:44:27:018 WORKER/(8486:8486): Conectado al Master en 127.0.0.1:9001 (fd=4)
+[INFO] 01:45:36:706 WORKER/(8498:8498): Creado correctamente el socket_cliente
+[INFO] 01:45:36:708 WORKER/(8498:8498): No se pudo conectar al servidor
+[INFO] 01:45:36:708 WORKER/(8498:8498): Conectado al Master en 127.0.0.1:9001 (fd=4)
+[INFO] 01:45:55:248 WORKER/(8499:8499): Creado correctamente el socket_cliente
+[INFO] 01:45:55:250 WORKER/(8499:8499): No se pudo conectar al servidor
+[INFO] 01:45:55:250 WORKER/(8499:8499): Conectado al Master en 127.0.0.1:9001 (fd=4)
+[INFO] 01:46:08:624 WORKER/(8502:8502): Creado correctamente el socket_cliente
+[INFO] 01:46:08:625 WORKER/(8502:8502): No se pudo conectar al servidor
+[INFO] 01:46:08:626 WORKER/(8502:8502): Conectado al Master en 127.0.0.1:9001 (fd=4)
+[INFO] 23:10:37:758 WORKER/(201337:201337): Creado correctamente el socket_cliente
+[INFO] 23:10:37:759 WORKER/(201337:201337): No se pudo conectar al servidor
+[INFO] 23:10:37:760 WORKER/(201337:201337): Conectado al Master en 127.0.0.1:9001 (fd=4)
+[INFO] 23:36:21:412 WORKER/(202497:202497): Creado correctamente el socket_cliente
+[INFO] 23:36:21:413 WORKER/(202497:202497): No se pudo conectar al servidor
+[INFO] 23:36:21:414 WORKER/(202497:202497): Conectado al Master en 127.0.0.1:9001 (fd=4)
+[INFO] 01:47:54:171 WORKER/(8415:8415): Creado correctamente el socket_cliente
+[INFO] 01:47:54:172 WORKER/(8415:8415): No se pudo conectar al servidor
+[INFO] 01:47:54:172 WORKER/(8415:8415): Conectado al Master en 127.0.0.1:9001 (fd=4)
+[INFO] 03:32:06:514 WORKER/(63749:63749): Creado correctamente el socket_cliente
+[INFO] 03:32:06:516 WORKER/(63749:63749): No se pudo conectar al servidor
+[INFO] 03:32:06:516 WORKER/(63749:63749): Conectado al Master en 127.0.0.1:9001 (fd=4)
+[INFO] 04:11:27:787 WORKER/(64903:64903): Creado correctamente el socket_cliente
+[INFO] 04:11:27:788 WORKER/(64903:64903): No se pudo conectar al servidor
+[INFO] 04:11:27:788 WORKER/(64903:64903): Conectado al Master en 127.0.0.1:9001 (fd=4)
+[INFO] 16:18:49:092 WORKER/(71852:71852): Creado correctamente el socket_cliente
+[INFO] 16:18:49:094 WORKER/(71852:71852): No se pudo conectar al servidor
+[INFO] 16:18:49:094 WORKER/(71852:71852): Conectado al Master en 127.0.0.1:9001 (fd=4)
